@@ -1,0 +1,15 @@
+package tacos.web;
+
+import javax.validation.Valid;
+
+import tacos.Taco;
+
+public enum log {
+	;
+
+	void info(String string, @Valid Taco taco) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}
