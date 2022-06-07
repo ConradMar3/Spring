@@ -113,3 +113,38 @@
 2022-06-06 11:10:55,482 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-06-06 11:10:55,483 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2022-06-06 11:10:55,483 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ConradMaré\Desktop\Spring\spring-in-action-6-samples-main-1\spring-in-action-6-samples-main\ch03\tacos-jdbctemplate\src\test\resources
+2022-06-06 11:14:43,900 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-06 11:14:43,903 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-06-06 11:14:43,909 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-06 11:14:44,109 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2022-06-06 11:14:44,118 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-06 11:14:44,118 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-06-06 11:14:44,118 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ConradMaré\Desktop\Spring\spring-in-action-6-samples-main-1\spring-in-action-6-samples-main\ch03\tacos-jdbctemplate\src\test\resources
+2022-06-06 11:15:00,052 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-06 11:15:00,053 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-06-06 11:15:00,055 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-06 11:15:00,177 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2022-06-06 11:15:00,189 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-06 11:15:00,190 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-06-06 11:15:00,192 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ConradMaré\Desktop\Spring\spring-in-action-6-samples-main-1\spring-in-action-6-samples-main\ch03\tacos-jdbctemplate\src\test\resources
+2022-06-06 11:16:31,324 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-06 11:16:31,325 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-06-06 11:16:31,328 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-06 11:16:31,366 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2022-06-06 11:16:31,373 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-06 11:16:31,374 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-06-06 11:16:31,374 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ConradMaré\Desktop\Spring\spring-in-action-6-samples-main-1\spring-in-action-6-samples-main\ch03\tacos-jdbctemplate\src\test\resources
+2022-06-06 11:16:48,990 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-06 11:16:48,992 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-06-06 11:16:48,994 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-06 11:16:49,050 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2022-06-06 11:16:49,056 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-06 11:16:49,073 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-06-06 11:16:49,073 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ConradMaré\Desktop\Spring\spring-in-action-6-samples-main-1\spring-in-action-6-samples-main\ch03\tacos-jdbctemplate\src\test\resources
+2022-06-06 11:17:07,246 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-06 11:17:07,247 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-06-06 11:17:07,251 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-06 11:17:07,264 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2022-06-06 11:17:07,270 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-06 11:17:07,270 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-06-06 11:17:07,270 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ConradMaré\Desktop\Spring\spring-in-action-6-samples-main-1\spring-in-action-6-samples-main\ch03\tacos-jdbctemplate\src\test\resources
